@@ -1,0 +1,25 @@
+{
+  "name": "model1",
+  "version": "1.0.0",
+  "description": "Modulo 1 do curso de GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/juliofilizzola/curso-graphql.git"
+  },
+  "author": "Julio Filizzola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliofilizzola/curso-graphql/issues"
+  },
+  "homepage": "https://github.com/juliofilizzola/curso-graphql#readme",
+  "dependencies": {
+    "apollo-server": "^3.9.0",
+    "graphql": "^16.5.0",
+    "nodemon": "^2.0.19"
+  }
+}
